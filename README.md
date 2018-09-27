@@ -1,2 +1,2 @@
-# SitecoreLocalizationToolPaaS
-Updates to an existing Sitecore Module (SMART TOOLS - ADD VERSION AND COPY CONTENT) with enhancements
+# CreateCustomCultureOnWindows
+Windows Console App. Methods to Create and Delete Cultures on your Windows Machine
